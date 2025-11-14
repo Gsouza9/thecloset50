@@ -104,6 +104,7 @@ body {
     text-decoration: none;
     transition: 0.3s ease;
     margin: 15px 0px;
+
 }
 
 #wireframe h2 {
@@ -330,11 +331,12 @@ main h2 {
     margin: 15px 0px;
 }
 
-/* Endereço */
 
+
+/* endereco */
 address {
    padding: 35px 10px 50px 15px;
-   background-color: var(--dourado);
+   background: url(IMG/T\ \(3\).png);
    color: #ffffff;
 }
 
@@ -367,8 +369,8 @@ address .container {
 
 footer {
    padding: 25px 10px;
-   background-color: var(--vinho);
-   color: var(--branco);
+   background-color: var(--cinzaEscuro);
+   color: var(--cinzaClaro);
    align-items: center;
 }
 
@@ -381,27 +383,6 @@ footer {
    color: var(--bege);
 }
 
-/* botão de subir */
-
-#topo {
-   position: fixed;
-   bottom: 75px;
-   right: 15px;
-}
-
-
-/* Rodapé */
-
-footer {
-   padding: 25px 10px;
-   background-color: var(--vinho);
-   color: var(--branco);
-   align-items: center;
-}
-
-#social {
-   margin-bottom: 25px;
-}
 
 
 
@@ -545,9 +526,6 @@ footer {
     }
 
     /* Destaque */
-    #destaque {
-
-    }
 
     #hero img {
         width: 400px;
@@ -575,13 +553,17 @@ footer {
     }
 
     #wireframe .qrcode {
-
+        justify-content: center;
     }
 
+    /*endereço*/
 
+    #googlmaps {
+        display: flex;
+    }
 
+    /* rodapé */
 }
-
 
 /* Fim - Notebook / PC <<<<<<<<<<<<<<<<<< */
 
