@@ -8,3 +8,4 @@ Site de portifólio para uma loja de roupas real chamada "The Closet 50", feito 
             alt="CSS válido!" />
     </a>
 </p>
+![GitHub License](https://img.shields.io/github/license/barretoalmeida/One-page)
