@@ -1,5 +1,5 @@
+![GitHub License](https://img.shields.io/github/license/Gsouza9/thecloset50)
 
-https://img.shields.io/github/license/Gsouza9/thecloset50
 
 # thecloset50
 
