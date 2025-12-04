@@ -1,3 +1,6 @@
+
+https://img.shields.io/github/license/Gsouza9/thecloset50
+
 # thecloset50
 
 
@@ -10,5 +13,4 @@ Site de portifólio para uma loja de roupas real chamada "The Closet 50", feito 
             alt="CSS válido!" />
     </a>
 </p>
-https://img.shields.io/github/license/Gsouza9/thecloset50
 
