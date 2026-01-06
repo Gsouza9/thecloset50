@@ -1,10 +1,22 @@
 
 ![GitHub License](https://img.shields.io/github/license/Gsouza9/thecloset50)  
 
-# thecloset50
+## 🚀 Projeto
 
+Projeto desenvolvido para praticar e aprimorar conhecimentos em programação e desenvolvimento web.
 
-Site de portifólio para uma loja de roupas real chamada "The Closet 50", feito 100% em HTML5 e CSS3 ultilizando as ferramentas propostas pelo VSCode
+## 🛠 Tecnologias
+- HTML
+- CSS
+- JavaScript
+
+## 📚 Objetivo
+Projeto com fins acadêmicos e desenvolvimento pessoal na área de Tecnologia da Informação.
+
+## 👨‍💻 Autor
+Gustavo Vieira de Souto  
+GitHub: https://github.com/Gsouza9
+
 
 <p>
     <a href="https://jigsaw.w3.org/css-validator/check/referer">
