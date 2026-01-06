@@ -1,5 +1,4 @@
 
-<p align="center">
 <p>
     <a href="https://jigsaw.w3.org/css-validator/check/referer">
         <img style="border:0;width:88px;height:31px"
@@ -9,7 +8,7 @@
 </p>
 
 ![GitHub License](https://img.shields.io/github/license/Gsouza9/thecloset50)  
-</p>
+
 
 ## 🚀 Projeto
 
