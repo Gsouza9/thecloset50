@@ -1,5 +1,4 @@
 
-![GitHub License](https://img.shields.io/github/license/Gsouza9/thecloset50)  
 
 ## 🚀 Projeto
 
@@ -26,5 +25,6 @@ GitHub: https://github.com/Gsouza9
     </a>
 </p>
 
+![GitHub License](https://img.shields.io/github/license/Gsouza9/thecloset50)  
 
 
