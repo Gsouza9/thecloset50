@@ -7,7 +7,7 @@
     </a>
 </p>
 
-![GitHub License](https://img.shields.io/github/license/Gsouza9/thecloset50)  
+
 
 
 ## 🚀 Projeto
@@ -26,6 +26,8 @@ Projeto com fins acadêmicos e desenvolvimento pessoal na área de Tecnologia da
 Gustavo Vieira de Souto  
 GitHub: https://github.com/Gsouza9
 
+
+![GitHub License](https://img.shields.io/github/license/Gsouza9/thecloset50)  
 
 
 
